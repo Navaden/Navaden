@@ -1,5 +1,7 @@
-## Hi there 👋
+
 <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Navaden&reversal=false&textBg=false">
+
+## Hi there 👋
 I code some stuff sometimes
 <!--
 **Navaden/Navaden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
